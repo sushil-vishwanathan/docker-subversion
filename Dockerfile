@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.8
-MAINTAINER Erik Larsson <erik.larsson@musiker.nu>
+MAINTAINER Sushil Vishwanathan <sushil.vishwanathan@gmail.com>
 
 ENV HOME /root
 
